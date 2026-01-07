@@ -1,0 +1,4 @@
+Strategy,Final Value,Total Return (%),Max Drawdown (%),Sharpe Ratio
+Buy & Hold,10250.0,2.5,-12.5,0.85
+Q-Learning,10120.0,1.2,-4.8,0.45
+DQN (Unseen Data),10009.95,0.1,-0.93,0.1
